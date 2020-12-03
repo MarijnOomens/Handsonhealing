@@ -1,0 +1,5 @@
+ - 3 grote fotos knippen
+ - kaarten instellen
+ - categoriën instellen
+ - categorie en behandeling pagina's
+ - profiel gedeelte homepagina
