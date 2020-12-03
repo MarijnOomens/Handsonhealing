@@ -6,6 +6,7 @@
 body {
   padding-top: 56px;
   background: maroon;
+  color: black;
 }
 
 .carousel-item {
@@ -29,4 +30,39 @@ body {
 
 .carousel-item {
   height: 75vh;
+}
+
+.card {
+  background-color: #e1cccd;
+}
+
+.right {
+  margin-left: auto;
+  right: 0;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.right {
+  right: 0;
+}
+
+.no-list {
+  list-style: none;
+}
+
+.carousel-caption {
+  color: #007bff;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
 }
