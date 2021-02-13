@@ -66,3 +66,25 @@ body {
   right: 0px;
   margin-bottom: 0px;
 }
+
+h1, h2, h3, p, li, ul {
+  color: gold;
+}
+
+.card-text {
+  color: black;
+}
+
+.breadcrumb {
+  background-color: #e1cccd;
+}
+
+.listing {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.listing-button {
+  right: 0;
+}
