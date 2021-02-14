@@ -33,7 +33,7 @@ body {
 }
 
 .card {
-  background-color: #e1cccd;
+  background-color: #f3e1c9;
 }
 
 .right {
@@ -68,7 +68,7 @@ body {
 }
 
 h1, h2, h3, p, li, ul {
-  color: gold;
+  color: #f3e1c9;
 }
 
 .card-text {
@@ -76,7 +76,7 @@ h1, h2, h3, p, li, ul {
 }
 
 .breadcrumb {
-  background-color: #e1cccd;
+  background-color: #f3e1c9;
 }
 
 .listing {
@@ -87,4 +87,36 @@ h1, h2, h3, p, li, ul {
 
 .listing-button {
   right: 0;
+}
+
+a, h4 {
+  color: maroon;
+}
+
+.card-text {
+  color: maroon !important;
+}
+
+.btn-primary {
+  color: #f3e1c9;
+  background-color: maroon;
+  border-color: maroon;
+}
+
+.bg-dark {
+  background-color: #f3e1c9 !important;
+}
+
+.navbar-dark .navbar-brand {
+  color: maroon;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: maroon !important;
+  font-weight: bold;
+}
+
+.text-white {
+  color: maroon !important;
 }
