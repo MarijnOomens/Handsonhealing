@@ -120,3 +120,7 @@ a, h4 {
 .text-white {
   color: maroon !important;
 }
+
+.table td {
+  color: #f3e1c9;
+}
