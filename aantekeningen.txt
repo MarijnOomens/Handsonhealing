@@ -1,8 +1,6 @@
- + gouden tekst proberen
  - categorie en behandeling pagina's
  - kennismakingsarrangement - 49,50
  - seizonsarrangement in aanbiedingen kaart (mei-aug/sept-maart)
- - tabel openingstijden
  
  - hot stone bovenste foto
  - kokos sab bovenste foto
@@ -13,17 +11,10 @@
  - herfst paddestoelfoto
  - geen kinder stempel massage meer
 
- nieuw:
- maandag - 11.00 tot 9.00 pm
- dinsdag 9.30 tot 9.00
- woensdag 9.30 tot 9.00
- donderdag 9.30 tot 13.30
- uitsluitend op afspraak
-
- lijstpaginas behandelingen fontsize groter
- lijstpaginas link op text en knop weg
+ lijstpaginas behandelingen fontsize groter --
+ lijstpaginas link op text en knop weg : verder
  covid pagina beginnen met: In verband met de Corona maatregelen is mijn praktijk tot nader bericht gesloten.
  voor categorie kinderen: kinder reiki massage + pibeleroe + worskhop kindermassage (stukje meer informatie weghalen) - foto voorbeeld tekening erbij
  meer opties in midden
- Hand on Healing met hoofdletter H
- margin bottom op behandeling paginas
+ Hand on Healing met hoofdletter H --
+ margin bottom op behandeling paginas x

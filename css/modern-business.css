@@ -124,3 +124,7 @@ a, h4 {
 .table td {
   color: #f3e1c9;
 }
+
+.category-desc {
+  font-size: 20px;
+}
