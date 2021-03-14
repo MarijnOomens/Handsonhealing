@@ -1,4 +1,3 @@
- - categorie en behandeling pagina's
  - kennismakingsarrangement - 49,50
  - seizonsarrangement in aanbiedingen kaart (mei-aug/sept-maart)
  
@@ -11,10 +10,7 @@
  - herfst paddestoelfoto
  - geen kinder stempel massage meer
 
- lijstpaginas behandelingen fontsize groter --
  lijstpaginas link op text en knop weg : verder
- covid pagina beginnen met: In verband met de Corona maatregelen is mijn praktijk tot nader bericht gesloten.
  voor categorie kinderen: kinder reiki massage + pibeleroe + worskhop kindermassage (stukje meer informatie weghalen) - foto voorbeeld tekening erbij
  meer opties in midden
- Hand on Healing met hoofdletter H --
  margin bottom op behandeling paginas x
