@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Modern Business (https://startbootstrap.com/template/modern-business)
- * Copyright 2013-2020 Start Bootstrap
+ * Copyright 2013-2021 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 body {
@@ -127,4 +127,8 @@ a, h4 {
 
 .category-desc {
   font-size: 20px;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url(data:image/svg+xml,%3csvgxmlns='http://www.w3.org/2000/svg'width='30'height='30'viewBox='0 0 30 30'%3e%3cpathstroke='rgba%28128, 0, 0, 0.5%29'stroke-linecap='round'stroke-miterlimit='10'stroke-width='2'd='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
 }
