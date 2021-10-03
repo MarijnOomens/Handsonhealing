@@ -14,6 +14,6 @@ else if(month >= 6 && month <= 9) {
     seizoensAanbiedingButton.href = "zomer-arrangement.html";
 }
 else if (month >= 10 || month <= 2) {
-    promotionText.innerHTML = "Voor u is nu het heerlijke herfst-winter arrangement in de aanbieding. Normaal €72,00, nu €67,50. Klik voor een uitgebreide beschrijving van deze behandeling hieronder.";
-    seizoensAanbiedingButton.href = "herfst-winter-massage.html";
+    promotionText.innerHTML = "Voor u is nu het heerlijke najaar winter arrangement in de aanbieding. Normaal €72,00, nu €67,50. Klik voor een uitgebreide beschrijving van deze behandeling hieronder.";
+    seizoensAanbiedingButton.href = "najaar-winter-arrangement.html";
 }
